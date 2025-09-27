@@ -7,7 +7,7 @@ import { Inter } from "next/font/google"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "v0 App",
+  title: "PORTHPOLIO",
   description: "Created with v0",
   generator: "v0.app",
 }
