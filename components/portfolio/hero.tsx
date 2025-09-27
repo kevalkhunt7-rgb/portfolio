@@ -6,7 +6,14 @@ export function Hero() {
   return (
     <section id="hero" aria-label="Intro" className="min-h-[88vh] flex items-center section section-padding">
       <div className="w-full text-center sm:text-left reveal">
-        <p className="text-sm uppercase tracking-widest text-muted-foreground mb-3">
+         <div className="flex items-center justify-center md:justify-start">
+          <img
+            src="/my.png"
+            alt="Portrait of the developer"
+            className="h-64 w-64 md:h-40 md:w-44 rounded-full border border-border object-cover"
+          />
+        </div>
+        <p className="text-sm uppercase tracking-widest mt-2 text-muted-foreground mb-3">
           Software Developer | Web Enthusiast
         </p>
         <h1 className="text-balance text-4xl sm:text-5xl md:text-6xl font-semibold leading-tight">
