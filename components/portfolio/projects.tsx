@@ -19,7 +19,7 @@ const projects: Project[] = [
     description: "Medique is a web application that allows patients to book doctor appointments online in a simple and convenient way. It provides a user-friendly interface for patients to view available doctors, check schedules, and confirm appointments.",
     tech: ["React.js", "JavaScript", "Tailwind CSS"],
     github: "https://github.com/kevalkhunt7-rgb/Medique",
-    demo: "https://example.com/project-one",
+    demo: "https://medique-51kbt2gib-kevalkhunt7-5969s-projects.vercel.app/",
     image: "/project-1.png",
   }
   
